@@ -4,10 +4,10 @@
 https://github.com/unbit/foohid.git
 
 1. 到 recovery mode disable kext
-    a. 重開機， cmd + R 進 Recovery mode
-    b. 打開 terminal: util -> terminal
-    c. $ csrutil disable
-    d. $ csrutil enable --without kext 
+    - a. 重開機， cmd + R 進 Recovery mode
+    - b. 打開 terminal: util -> terminal
+    - c. $ csrutil disable
+    - d. $ csrutil enable --without kext 
 
 2. 下載專案，編完 foohid.text 放到 /Library/Extensions
 
