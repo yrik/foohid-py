@@ -1,3 +1,5 @@
+#define PY_SSIZE_T_CLEAN
+
 #include <Python.h>
 #include <IOKit/IOKitLib.h>
 #include <CoreFoundation/CFRunLoop.h>
